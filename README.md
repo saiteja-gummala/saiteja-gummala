@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sai prakash</h1>
+<h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **Shipment price prediction project**
+- 🔭 I’m currently working on **Automated ML**
 
 - 🌱 I’m currently learning **Deep Learning ,Computer vision**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 I’m looking for help with **Neuro Engineering project**
-
-- 📝 I regularly write articles on [https://prakash0007.medium.com/](https://prakash0007.medium.com/)
-
 - 💬 Ask me about **Python,Machine Learning and statistics**
 
-- 📫 How to reach me **saipraaksh2488@gmail.com**
+- 📫 How to reach me **saitejagummala2025@gmail.com**
 
-- 📄 Know about my experiences [github](github)
-
-- ⚡ Fun fact **I like to play chess and go to the gym often**
+- ⚡ Fun fact **I like to travel a lot and go to the gym often**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
