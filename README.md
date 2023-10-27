@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Ecommerce-Website**
 
@@ -23,9 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiteja-gummala&show_icons=true&locale=en&layout=compact" alt="saiteja-gummala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-gummala&" alt="saiteja-gummala" /></p> 
-
-
-// nfkwfhkweh
 
 
 
