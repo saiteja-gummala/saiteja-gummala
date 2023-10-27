@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **Automated ML**
+- 🔭 I’m currently working on **Ecommerce-Website**
 
-- 🌱 I’m currently learning **Deep Learning ,Computer vision**
+- 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **Python,Machine Learning and statistics**
+- 💬 Ask me about **HTML,CSS,JS,Tailwind,Bootstrap,SQL,React js**
 
 - 📫 How to reach me **saitejagummala2025@gmail.com**
 
