@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,Tailwind,Bootstrap,SQL,React js**
 
-- 📫 How to reach me **saitejagummala2025@gmail.com**
+- 📫 How to reach me **saitejagummala1512@gmail.com**
 
 - ⚡ Fun fact **I like to travel a lot and go to the gym often**
 
